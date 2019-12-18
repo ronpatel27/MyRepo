@@ -1,0 +1,16 @@
+D:\MyVSProjects\Eazy_ScreenRecording\bin\Debug\Encoder_en.exe
+D:\MyVSProjects\Eazy_ScreenRecording\bin\Debug\Eazy_ScreenRecording.exe.config
+D:\MyVSProjects\Eazy_ScreenRecording\bin\Debug\Eazy_ScreenRecording.exe
+D:\MyVSProjects\Eazy_ScreenRecording\bin\Debug\Eazy_ScreenRecording.pdb
+D:\MyVSProjects\Eazy_ScreenRecording\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\MainWindow.g.cs
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\App.g.cs
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording_Content.g.cs
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording_MarkupCompile.cache
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording_MarkupCompile.lref
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\MainWindow.baml
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording.g.resources
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording.Properties.Resources.resources
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording.csproj.GenerateResource.Cache
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording.exe
+D:\MyVSProjects\Eazy_ScreenRecording\obj\Debug\Eazy_ScreenRecording.pdb
